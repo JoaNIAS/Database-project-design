@@ -1,0 +1,14 @@
+Explore the information below:
+The university has students and faculty members. Faculty members work in departments: multiple faculty members may work in the same department, but each faculty member works strictly in one department. 
+Faculty members teach courses. One faculty member may teach several courses, but each course is taught strictly by one faculty member. 
+Students take courses in which they are enrolled. Each student may take more than one course, and each course may be taken by more than one student. In addition:
+All animated participants have a full name, date of birth, and phone number. 
+Each student is enrolled in a course on a specific date.
+Each course lasts a certain number of hours.
+The department has a name and a charter, a small piece of text that states what the department does.
+
+Design a database that will store information about the described subject area: 
+Identify entities.
+Fill them with attributes.
+Define primary and foreign keys.
+Establish the necessary relationships.
